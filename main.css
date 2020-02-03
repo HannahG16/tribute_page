@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: rgb(247, 244, 244);
+}
+
+.heading {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+.heading h2 {
+    font-size: 50px;
+}
+
+.heading h3 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.image {
+    background-color: rgb(255, 255, 255);
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 300px;
+    margin-inline-end: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    width: auto;
+    height: 350px;
+
+}
+
+.timeline {
+    font-family: 'Oswald', sans-serif;
+}
+
+.timeline h3{
+    font-size: 16px;
+    font-weight: 400;
+}
